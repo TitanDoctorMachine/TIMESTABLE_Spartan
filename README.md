@@ -1,2 +1,2 @@
 # TIMESTABLE_Spartan
-NTP Manager for Spartan Infrastructure
+Simple NTP Manager for Spartan Infrastructure
