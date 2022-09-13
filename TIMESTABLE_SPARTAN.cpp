@@ -119,3 +119,4 @@ int TIMESTABLE_SPARTAN::GetSeconds(){mkeit();return Server_Time->tm_sec;}
 int TIMESTABLE_SPARTAN::GetDay(){mkeit();return Server_Time->tm_mday;}
 int TIMESTABLE_SPARTAN::GetMonth(){mkeit();return Server_Time->tm_mon;}
 int TIMESTABLE_SPARTAN::GetYear(){mkeit();return Server_Time->tm_year;}
+//endofall
